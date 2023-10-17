@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shard
+  - Star
+  - Wall
+  - Post
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Sprite
+  - Charactor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3555965257
+    locked: 0
+  - name: Sprite
+    uniqueID: 739152657
+    locked: 0
+  - name: Character
+    uniqueID: 2859205321
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
